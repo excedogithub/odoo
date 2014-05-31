@@ -1,0 +1,4 @@
+odoo
+====
+
+Odoo Technical Modules
